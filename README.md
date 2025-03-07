@@ -23,7 +23,7 @@ Este repositório contém minha jornada de resolução dos desafios no LeetCode.
 
 | # | Problema | Dificuldade | Solução |
 |---|---------|------------|---------|
-| 1 | [Merge Sorted](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | Fácil | [Código](./arrays.MergeElements) |
+| 1 | [Merge Sorted](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | Fácil | [Código](./main/src/main/java/arrays/MergeElements.java) |
 
 ## 🛠 Tecnologias Utilizadas
 
