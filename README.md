@@ -25,6 +25,7 @@ Este repositório contém minha jornada de resolução dos desafios no LeetCode.
 |--|---------|------------|---------|
 | 1 | [Merge Sorted](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | Fácil | [Código](./src/main/java/arrays/MergeElements.java) |
 | 2 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/1566345471/?envType=study-plan-v2&envId=top-interview-150) | Fácil | [Código](./src/main/java/arrays/RemoveElement.java) |
+| 2 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | Fácil | [Código](./src/main/java/arrays/RemoveDuplicates.java) |
 
 ## 🛠 Tecnologias Utilizadas
 
