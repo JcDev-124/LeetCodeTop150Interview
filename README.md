@@ -1,10 +1,8 @@
-Ótima ideia! Um README bem estruturado pode ajudar a organizar seu progresso e facilitar a navegação pelo repositório. Aqui está um modelo que você pode usar:
 
----
 
 # 🚀 LeetCode - [Top 150 Interview]
 
-Este repositório contém minha jornada de resolução dos desafios da trilha **[Nome da Trilha]** no LeetCode. Meu objetivo é aprimorar minhas habilidades em **Java** e algoritmos, documentando soluções e aprendizados ao longo do caminho.
+Este repositório contém minha jornada de resolução dos desafios no LeetCode. Meu objetivo é aprimorar minhas habilidades em **Java** e algoritmos, documentando soluções e aprendizados ao longo do caminho.
 
 ## 📌 Estrutura do Repositório
 
